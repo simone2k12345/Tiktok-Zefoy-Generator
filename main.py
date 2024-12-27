@@ -185,8 +185,8 @@ class Main:
 
 
 
-    def get_insert_tiktok_link(self):
-        print("[~] Send the Tiktok Link")
+    def get_insert_tiktok_link(https://vm.tiktok.com/ZNewDsWHY/):
+        print("[~] https://vm.tiktok.com/ZNewDsWHY/")
         tiktok_link = input()
         myElem = None
         try:
